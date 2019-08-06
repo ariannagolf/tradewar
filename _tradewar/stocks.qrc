@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/stocks">
+        <file>^AAPL.csv</file>
+        <file>^DJI.csv</file>
+        <file>^IXIC.csv</file>
+    </qresource>
+</RCC>

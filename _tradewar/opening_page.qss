@@ -1,0 +1,22 @@
+QPushButton {
+    background-color: white;
+    border-width: 2px;
+    border-color: white;
+    border-style: solid;
+    border-radius: 5;
+    padding: 3px;
+}
+
+QPushButton:hover {
+    background-color: #cccccc
+}
+
+QLabel {
+    font-weight: bold;
+    color: white;
+    font-size: 150px;
+    font-stretch: expanded;
+    margin-top = 3px;
+    text-align: center;
+    vertical-align: top;
+}

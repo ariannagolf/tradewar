@@ -1,0 +1,4 @@
+The stock will appreciate in value in the short term.
+The stock will depreciate in value in the short term.
+The stock will appreciate in value in the long term.
+The stock will depreciate in value in the long term.

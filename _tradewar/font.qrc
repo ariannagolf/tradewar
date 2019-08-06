@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/font">
+        <file>Arciform.otf</file>
+        <file>Monopoly Regular.ttf</file>
+        <file>Monopoly Bold.ttf</file>
+        <file>ubuntu-bold.ttf</file>
+        <file>ubuntu-regular.ttf</file>
+    </qresource>
+</RCC>
