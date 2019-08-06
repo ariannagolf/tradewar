@@ -29,5 +29,5 @@ Fix Analysis Page bug where peers and news data is appended each time you view a
 Fix program crashes mentioned in ISSUES.
 Test page has not been fully implemented. We have commented it out.
 
-Copyright (c) 2018, Arianna Groetsema
+Copyright (c) 2019, Arianna Groetsema
 All rights reserved.
