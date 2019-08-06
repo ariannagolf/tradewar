@@ -22,6 +22,7 @@ If the program crashes and/or compiles incorrectly when you first open the proje
 Also, running the program consecutively many times may lead to delays. 
 This is most likely a result of the handling of the API calls which is something we were unable to resolve.
 To circumvent this issue, shut down the program and it should run faster again. 
+See Screenshots folder to see how the application should look without issues.
 
 
 TODO
