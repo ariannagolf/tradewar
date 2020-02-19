@@ -1,7 +1,7 @@
 # tradewar
-A financial application to help personal investments
+A desktop financial application to help personal investments
 
-# Main Features
+## Main Features
 Tradewar is a personal investment tool that aids investment decisions by providing a summary of the general performance of major stocks as well as a detailed examination of single stocks through charts, tables, and relevant news. Tradewar also provides an analysis of each stock.
 
 Tradewar utilizes the IEX API to grab stock data.
